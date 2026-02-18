@@ -2,6 +2,10 @@
 A quick data exploration of morale and inclusivity among data professionals, uncovering workplace trends, engagement patterns, and insights shaping employee experiences in the data industry.
 
 ----------
+## 📷 Dashboard Preview
+*Interactive Dashboard :* https://app.powerbi.com/view?r=eyJrIjoiYWQxMDljYzAtOWYzMi00NTY5LTllZGUtOTAxNTUwZDMzYjQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+---
 
 # 📊 Employee Morale & Inclusivity Analysis – Data Field Survey
 
